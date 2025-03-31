@@ -1,5 +1,5 @@
 # Custom Soundboard
-A Windows desktop application that allows users to create their own customized soundboards.
+A Windows desktop application that allows users to create their own customized soundboard.
 
 ---
 
