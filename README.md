@@ -37,4 +37,4 @@ dotnet publish -r win-x64 /p:PublishSingleFile=true /p:IncludeNativeLibrariesFor
 
 ---
 
-![DJ-Cat]([https://burst.shopifycdn.com/photos/business-cat-in-office.jpg?exif=0&iptc=0](https://i.pinimg.com/736x/7e/da/07/7eda07cdf66138db06b92fb34cd14452.jpg))
+![DJ-Cat](https://i.pinimg.com/736x/7e/da/07/7eda07cdf66138db06b92fb34cd14452.jpg)
